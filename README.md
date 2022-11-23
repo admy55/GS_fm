@@ -9,7 +9,7 @@ We release the optimal marker panel and genomic prediction model information for
 
 | Class | Trait | Location | Longitude | Latitude | Prediction accuracy | Marker panel | GS model |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Yield | 1000-grain_weight | Dingxi | 104.592342 | 35.607947 | 0.7932±0.0467 | [download](GS_model/1000-grain_weight_Dingxi_markerpanel.txt.gz) | [download](GS_model/1000-grain_weight_Dingxi.lgb_model.gz) |
-| Yield | 1000-grain_weight | Anyang | 114.39248 | 36.098779 | 0.8976±0.0249 | [download](GS_model/1000-grain_weight_Anyang_markerpanel.txt.gz) | [download](GS_model/1000-grain_weight_Anyang.lgb_model.gz) |
+| Yield | 1000-grain_weight | Dingxi | 104.592342 | 35.607947 | 0.7932±0.0467 | [download](GS_genotype/1000-grain_weight_Dingxi_markerpanel.txt.gz) | [download](GS_model/1000-grain_weight_Dingxi.lgb_model.gz) |
+| Yield | 1000-grain_weight | Anyang | 114.39248 | 36.098779 | 0.8976±0.0249 | [download](GS_genotype/1000-grain_weight_Anyang_markerpanel.txt.gz) | [download](GS_model/1000-grain_weight_Anyang.lgb_model.gz) |
 
 
