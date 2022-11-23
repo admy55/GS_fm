@@ -6,8 +6,11 @@ GS model for fm
 We release the optimal marker panel and genomic prediction model information for 68 breeding traits at 13 distinct geographic regions of foxtail millet. These resources are freely available for breeders to develop new elite varieties adapting to local environment by "breeding by design", which will accelerate foxtail millet adaptive breeding.
 
 
+
 | Class | Trait | Location | Longitude | Latitude | Prediction accuracy | Marker panel | GS model |
+
 | Yield | 1000-grain_weight | Dingxi | 104.592342 | 35.607947 | 0.7932±0.0467 | Download | Download |
+
 | Yield | 1000-grain_weight | Anyang | 114.39248 | 36.098779 | 0.8976±0.0249 | Download | Download |
 
 
