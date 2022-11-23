@@ -1,8 +1,6 @@
-# GS_fm
-GS model for fm
+# Marker Panels for Foxtail Millet Adaptive Breeding
 
-
-#### We release the optimal marker panel and genomic prediction model information for 68 breeding traits at 13 distinct geographic regions of *foxtail millet*. These resources are freely available for breeders to develop new elite varieties adapting to local environment by `breeding by design`, which will accelerate *foxtail millet* adaptive breeding.
+We release the optimal marker panel and genomic prediction model information for 68 breeding traits at 13 distinct geographic regions of *foxtail millet*. These resources are freely available for breeders to develop new elite varieties adapting to local environment by `breeding by design`, which will accelerate *foxtail millet* adaptive breeding.
 
 ![](img/map.jpg)
 
