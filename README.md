@@ -8,9 +8,8 @@ We release the optimal marker panel and genomic prediction model information for
 
 
 | Class | Trait | Location | Longitude | Latitude | Prediction accuracy | Marker panel | GS model |
-
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Yield | 1000-grain_weight | Dingxi | 104.592342 | 35.607947 | 0.7932±0.0467 | Download | Download |
-
 | Yield | 1000-grain_weight | Anyang | 114.39248 | 36.098779 | 0.8976±0.0249 | Download | Download |
 
 
