@@ -7,3 +7,4 @@ We release the optimal marker panel and genomic prediction model information for
 
 
 [TGW-Anyang](GS model/1000-grain_weight_Anyang.lgb_model.gz)
+[baidu](https://www.baidu.com)
