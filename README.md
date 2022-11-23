@@ -9,6 +9,7 @@ We release the optimal marker panel and genomic prediction model information for
 <br>
 
 | Class | Trait | Location | Longitude | Latitude | Prediction accuracy | Marker panel | GS model |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Biomass | Straw weight | Dingxi | 104.592342 | 35.607947 | 0.7651±0.0503 | [download](GS_genotype/Straw_weight_Dingxi_markerpanel.txt.gz) | [download](GS_model/Straw_weight_Dingxi.lgb_model.gz)
 | Biomass | Straw weight | Chaoyang | 120.488801 | 41.601855 | 0.8194±0.0429 | [download](GS_genotype/Straw_weight_Chaoyang_markerpanel.txt.gz) | [download](GS_model/Straw_weight_Chaoyang.lgb_model.gz)
 | Biomass | Straw weight | Qitai | 89.593879 | 44.022001 | 0.891±0.0274 | [download](GS_genotype/Straw_weight_Qitai_markerpanel.txt.gz) | [download](GS_model/Straw_weight_Qitai.lgb_model.gz)
